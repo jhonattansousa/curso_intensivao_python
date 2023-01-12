@@ -69,5 +69,5 @@ print(tabela)
 tabela.to_excel("Produtos Novo.xlsx", index=False)
 
 
-# fechar navegador
+#  fechar navegador
 navegador.quit()

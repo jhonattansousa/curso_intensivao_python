@@ -5,7 +5,7 @@ tabela = pd.read_csv("telecom_users.csv") #,sheets=NomeAbaExcel // caso queira c
 print(tabela)
 
 
-# 2 -> Visualizar a base de dados
+# 2 ->  Visualizar a base de dados
 # Entender as informações que você tem disponivel
 # Descobrir as informações incorretas da base de dados
 # axis -> 0 = linha; axis -> 1 = coluna

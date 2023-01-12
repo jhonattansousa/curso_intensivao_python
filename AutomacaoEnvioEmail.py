@@ -5,7 +5,7 @@ import pandas
 
 pyautogui.PAUSE = 2
 
-# abrindo navegador
+#  abrindo navegador
 pyautogui.hotkey("win")
 pyautogui.write("chrome")
 pyautogui.press("enter")
